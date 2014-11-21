@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # A Multi-Framework [Composer](http://getcomposer.org) Library Installer
 
 [![Build Status](http://img.shields.io/travis/composer/installers.svg)](http://travis-ci.org/composer/installers)
@@ -182,3 +183,7 @@ It has been proposed many times. Even implemented once early on and then
 removed. `installers` won't do this because it would allow a single package
 author to wipe out entire folders without the user's consent. That user would
 then come here to yell at us.
+=======
+composer-installers
+===================
+>>>>>>> 654b2d7166717bf452295364c5b2152b3fb11652
