@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # A Multi-Framework [Composer](http://getcomposer.org) Library Installer
 
 [![Build Status](http://img.shields.io/travis/composer/installers.svg)](http://travis-ci.org/composer/installers)
@@ -186,4 +186,4 @@ then come here to yell at us.
 =======
 composer-installers
 ===================
->>>>>>> 654b2d7166717bf452295364c5b2152b3fb11652
+
